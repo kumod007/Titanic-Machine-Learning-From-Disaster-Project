@@ -1,6 +1,8 @@
 
 <b>Title:</b> Predicting Titanic Passenger Survival with Machine Learning
 
+<b>Kaggle Notbeook Link:</b> https://www.kaggle.com/code/kdsharma/titanic-machine-learning-from-disaster-project
+
 <b>Introduction:</b> In 1912, the RMS Titanic famously sank on its maiden voyage after colliding with an iceberg, resulting in the loss of over 1500 lives. In this project, we will use machine learning techniques to analyze data on Titanic passengers and predict whether they survived the disaster or not.
 
 <b>Objective:</b> The objective of this project is to build a machine learning model that can accurately predict passenger survival based on various features such as age, gender, class, fare, etc.
